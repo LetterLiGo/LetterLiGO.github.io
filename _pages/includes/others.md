@@ -1,6 +1,6 @@
-# 📖 Educations
-- *2019.06 - Present*, PhD, USSLAB, Zhejiang University, Hangzhou. 
-- *2015.09 - 2019.06*, Undergraduate, Electrical Engineering College, Zhejiang Univeristy, Hangzhou.
+# 📖 Education
+- *2019.06 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou. 
+- *2015.09 - 2019.06*, Undergraduate, College of Electrical Engineering, Zhejiang University, Hangzhou.
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo.
 
 # 💬 Invited Talks
@@ -10,6 +10,6 @@
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.11 - 2022.05*, [杭州涿溪脑与智能研究所](), Hangzhou, China.
+- *2021.11 - 2022.05*, [Zhuoxi Brain and Intelligence Institute](), Hangzhou, China.
 
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
