@@ -1,4 +1,4 @@
-# 📖 Education
+# 📖 Educations
 - *2019.06 - Present*, Ph.D., USSLAB, Zhejiang University, Hangzhou. 
 - *2015.09 - 2019.06*, Undergraduate, College of Electrical Engineering, Zhejiang University, Hangzhou.
 - *2012.09 - 2015.06*, Yuyao High School, Ningbo.

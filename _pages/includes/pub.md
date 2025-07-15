@@ -70,7 +70,7 @@ In Proceedings of the 32nd **USENIX Security 2023** (CCF-A, Big4)
 
 - [The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework](https://arxiv.org/abs/2505.19139), Feiran Liu, Yuzhe Zhang, Xinyi Huang, Yinan Peng, **Xinfeng Li^** (Corresponding Author), Lixu Wang, Yutong Shen, Ranjie Duan, Simeng Qin, Xiaojun Jia, Qingsong Wen, Wei Dong. **MM 2025** (CCF-A)
 
-- [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://arxiv.org/abs/2412.05934), Teng Ma, Xiaojun Jia, Ranjie Duan, Xinfeng Li, Yihao Huang, Zhixuan Chu, Yang Liu, Wenqi Ren. **ICCV 2025** (CCF-A)
+- [Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models](https://arxiv.org/abs/2412.05934), Teng Ma, Xiaojun Jia, Ranjie Duan, **Xinfeng Li**, Yihao Huang, Zhixuan Chu, Yang Liu, Wenqi Ren. **ICCV 2025** (CCF-A)
 
 - [Legilimens: Practical and Unified Content Moderation for Large Language Model Services](https://arxiv.org/abs/2402.13454), Jialin Wu, Jiangyi Deng, Shengyuan Pang, Yanjiao Chen, Jiayang Xu, **Xinfeng Li**, Wenyuan Xu. **ACM CCS 2024** (CCF-A, Big4) [[Code](https://github.com/lin000001/Legilimens)]
 
