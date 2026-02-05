@@ -4,12 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; url=https://letterligo.netlify.app">
-    <link rel="canonical" href="https://letterligo.netlify.app" />
     <script>
-        // Redirect with JavaScript as a fallback
-        window.location.href = "https://letterligo.netlify.app";
+        // Get the current path and search parameters
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        
+        // Construct the new URL with the same path
+        var newUrl = "https://letterligo.netlify.app" + path + search + hash;
+        
+        // Redirect immediately
+        window.location.replace(newUrl);
     </script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=https://letterligo.netlify.app">
+    </noscript>
 </head>
 <body>
     <p>Redirecting to new site...</p>
